@@ -17,6 +17,9 @@
     },
     "Title": {
       "type": "string"
+    },
+    "Soundcloud_LInk": {
+      "type": "string"
     }
   }
 }
