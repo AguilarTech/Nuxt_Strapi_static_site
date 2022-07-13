@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "bodies",
+  "info": {
+    "singularName": "body",
+    "pluralName": "bodies",
+    "displayName": "body"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "content": {
+      "type": "text"
+    }
+  }
+}
