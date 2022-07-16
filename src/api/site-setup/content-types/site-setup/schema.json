@@ -1,0 +1,30 @@
+{
+  "kind": "singleType",
+  "collectionName": "site_setups",
+  "info": {
+    "singularName": "site-setup",
+    "pluralName": "site-setups",
+    "displayName": "Site Setup"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "mainHeading": {
+      "type": "string"
+    },
+    "mainSubheading": {
+      "type": "string"
+    },
+    "mainTelephone": {
+      "type": "string"
+    },
+    "mainEmail": {
+      "type": "email"
+    },
+    "mainImageLink": {
+      "type": "string"
+    }
+  }
+}
