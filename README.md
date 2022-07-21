@@ -6,6 +6,10 @@ Strapi comes with a full featured [Command Line Interface](https://docs.strapi.i
 
 ```
 yarn install
+
+heroku login
+heroku git:clone -a yourapp
+
 ```
 
 ### `develop`
