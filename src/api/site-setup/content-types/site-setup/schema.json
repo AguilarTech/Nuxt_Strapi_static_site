@@ -4,7 +4,8 @@
   "info": {
     "singularName": "site-setup",
     "pluralName": "site-setups",
-    "displayName": "Site Setup"
+    "displayName": "Site Setup",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -25,6 +26,11 @@
     },
     "mainImageLink": {
       "type": "string"
+    },
+    "seo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.seo"
     }
   }
 }
